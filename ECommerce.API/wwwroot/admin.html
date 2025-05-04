@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Admin Dashboard - ECom</title>
+    <link rel="stylesheet" href="css/admin.css" />
+</head>
+<body>
+    <div class="admin-container">
+        <aside class="sidebar">
+            <h2>ECom Admin</h2>
+            <nav>
+                <ul>
+                    <li><a href="user-management.html">👥 Manage Users</a></li>
+                    <li><a href="#manage-products">📦 Manage Products</a></li>
+                    <li><a href="#manage-orders">📋 Manage Orders</a></li>
+                    <li><button class="logout-btn" onclick="logout()">🚪 Logout</button></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <main class="main-content">
+            <header>
+                <h1>Welcome, Admin Shiv!</h1>
+            </header>
+
+            <section id="manage-users" class="card">
+                <h2>👥 User Management</h2>
+                <p>Add, Update, or Delete Users</p>
+                <a href="add-user.html" class="btn">➕ Add New User</a>
+            </section>
+
+            <section id="manage-products" class="card">
+                <h2>📦 Product Management</h2>
+                <p>Add, Update, or Delete Products</p>
+                <a href="add-product.html" class="btn">➕ Add New Product</a>
+            </section>
+
+            <section id="manage-orders" class="card">
+                <h2>📋 Order Management</h2>
+                <p>Approve, Ship, Cancel, Deliver Orders</p>
+                <a href="manage-orders.html" class="btn">🛒 Manage Orders</a>
+            </section>
+        </main>
+    </div>
+
+    <script>
+    function logout() {
+      alert("Logging out...");
+      window.location.href = "index.html";
+    }
+    </script>
+</body>
+</html>

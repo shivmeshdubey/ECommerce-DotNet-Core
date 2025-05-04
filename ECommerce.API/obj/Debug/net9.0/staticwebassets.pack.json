@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "PackagePath": "staticwebassets\\add-user.html"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "PackagePath": "staticwebassets\\admin.html"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "PackagePath": "staticwebassets\\css\\landing-user.css"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "PackagePath": "staticwebassets\\css\\user-add.css"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "PackagePath": "staticwebassets\\landing-user.html"
+    },
+    {
+      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "PackagePath": "staticwebassets\\user-management.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.ECommerce.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.ECommerce.API.props",
+      "PackagePath": "build\\ECommerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.ECommerce.API.props",
+      "PackagePath": "buildMultiTargeting\\ECommerce.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.ECommerce.API.props",
+      "PackagePath": "buildTransitive\\ECommerce.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

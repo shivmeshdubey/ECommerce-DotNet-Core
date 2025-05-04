@@ -1,0 +1,18 @@
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\landing-user.html
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\add-user.html
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\css\user-add.css
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\css\admin.css
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\user-management.html
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\index.html
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\admin.html
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\css\style.css
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.API\wwwroot\css\landing-user.css
+wwwroot\add-user.html
+wwwroot\admin.html
+wwwroot\css\admin.css
+wwwroot\css\landing-user.css
+wwwroot\css\style.css
+wwwroot\css\user-add.css
+wwwroot\index.html
+wwwroot\landing-user.html
+wwwroot\user-management.html

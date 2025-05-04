@@ -1,0 +1,95 @@
+﻿/* Global Styles */
+body {
+    margin: 0;
+    font-family: 'Segoe UI', sans-serif;
+    background: linear-gradient(135deg, #f0f4f8, #d9e2ec);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 90%;
+    max-width: 1000px;
+    padding: 20px;
+}
+
+.header {
+    width: 100%;
+    background-color: #667eea;
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logout-btn {
+    background-color: #e53e3e;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    color: white;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.user-info, .actions {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+    .user-info h2, .actions h2 {
+        margin-top: 0;
+    }
+
+.action-buttons {
+    margin-top: 20px;
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.btn {
+    background-color: #667eea;
+    color: white;
+    padding: 12px 20px;
+    text-decoration: none;
+    border-radius: 8px;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+    .btn:hover {
+        background-color: #2b6cb0;
+    }
+
+
+/* Orders Table */
+.orders {
+    background-color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+}
+
+.orders-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+    .orders-table th, .orders-table td {
+        padding: 12px 15px;
+        text-align: left;
+        border-bottom: 1px solid #e2e8f0;
+    }
+
+    .orders-table th {
+        background-color: #edf2f7;
+    }

@@ -1,0 +1,62 @@
+### Create a new user
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Krishna",
+  "Email": "Gokula@gmail.com",
+  "Password": "krs",
+   "Role":1
+}
+###
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Satymesh Dubey",
+  "Email": "satyam@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+
+###
+PUT http://localhost:5270/auth/update
+content-Type: application/json
+
+{
+  "UserName": "Satymesh Dubey",
+  "Email": "satyam@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+###
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Harshit Shrivastava",
+  "Email": "harshit@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+
+###
+GET http://localhost:5270/user
+
+
+### Get User By ID or Email
+GET http://localhost:5270/user/132648d4-fef2-4c58-8984-117e03794841
+
+Content-Type: application/json
+
+### Get User By Email Only
+GET http://localhost:5270/user/email/Gokula@gmail.com
+
+
+### Get User By ID or Email
+DELETE http://localhost:5270/user/132648d4-fef2-4c58-8984-117e03794841
+
+Content-Type: application/json
+
+### Get User By Email Only
+DELETE http://localhost:5270/user/shivmesh@gmail.com

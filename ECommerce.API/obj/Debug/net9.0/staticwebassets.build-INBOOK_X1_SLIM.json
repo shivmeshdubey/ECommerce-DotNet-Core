@@ -1,0 +1,20 @@
+{
+  "Version": 1,
+  "Hash": "EW/tREi0iGsXg8VaqQWvmBMDeNyYKaLhp+bmEA3KvJ0=",
+  "Source": "ECommerce.API",
+  "BasePath": "_content/ECommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.API\\wwwroot",
+      "Source": "ECommerce.API",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [],
+  "Endpoints": []
+}

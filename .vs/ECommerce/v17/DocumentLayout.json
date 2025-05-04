@@ -1,0 +1,790 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\registeruser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\registeruser.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\dependencyinjection\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\dependencyinjection\\servicecollectionextentions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\command\\updateuser\\updateusercommandhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\command\\updateuser\\updateusercommandhandeler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\command\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\command\\updateuser\\updateusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\services\\implementation\\auth\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\implementation\\auth\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\query\\getuserbyid\\getuserbyidoremailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\query\\getuserbyid\\getuserbyidoremailqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\query\\getalluser\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\query\\getalluser\\userqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\query\\getalluser\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\query\\getalluser\\userquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\services\\interfaces\\auth\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\interfaces\\auth\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\dtos\\user\\userresisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\user\\userresisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.infrastructure\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\repositories\\implementation\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\services\\interfaces\\iuserrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\interfaces\\iuserrepsitory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\command\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\command\\deleteuser\\deleteusercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\command\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\command\\deleteuser\\deleteusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\user\\query\\getuserbyid\\getuserbyidoremailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\user\\query\\getuserbyid\\getuserbyidoremailquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\auth\\commands\\registeruser\\registerusercommandhandeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\auth\\commands\\registeruser\\registerusercommandhandeller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\features\\auth\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\features\\auth\\commands\\registeruser\\registerusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\dtos\\user\\getuserbyidoremaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\user\\getuserbyidoremaildto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\dtos\\user\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\user\\deleteuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\ecommerce.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\ecommerce.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\services\\interfaces\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\services\\interfaces\\auth\\itokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\ecommerce.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\css\\user-add.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\css\\user-add.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\css\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\add-user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\add-user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\user-management.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\user-management.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\landing-user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\landing-user.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\css\\landing-user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\css\\landing-user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\add-user.html||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\add-user.html||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\dtos\\user\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1000F861-B784-4A96-8781-86D15BDBB6C9}|ECommerce.Application\\ECommerce.Application.csproj|solutionrelative:ecommerce.application\\common\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\ecommerce.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.infrastructure\\ifactory\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C41B543-DE67-48A5-9BAE-E8ECE6D48D17}|ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj|solutionrelative:ecommerce.infrastructure\\ifactory\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1F8CC250-4298-4D6F-A7FD-7C1E5B4707CA}|ECommerce.API\\ECommerce.API.csproj|solutionrelative:ecommerce.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|c:\\users\\shivm\\onedrive\\desktop\\my folder\\personal\\ecommerce\\ecommerceapp\\ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9C99EFD-91D8-4ADF-B04D-5A269E0ED72C}|ECommerce.Domain\\ECommerce.Domain.csproj|solutionrelative:ecommerce.domain\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "registerUser.http",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\registerUser.http",
+              "RelativeDocumentMoniker": "ECommerce.API\\registerUser.http",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\registerUser.http",
+              "RelativeToolTip": "ECommerce.API\\registerUser.http",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-04T14:24:12.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServicecollectionExtentions.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\DependencyInjection\\ServicecollectionExtentions.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\DependencyInjection\\ServicecollectionExtentions.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\DependencyInjection\\ServicecollectionExtentions.cs",
+              "RelativeToolTip": "ECommerce.API\\DependencyInjection\\ServicecollectionExtentions.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowCIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:42:57.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:54:49.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UpdateUserCommandHandeler.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommandHandeler.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommandHandeler.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommandHandeler.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommandHandeler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:07:22.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:45:47.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T14:43:08.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommand.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommand.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Command\\UpdateUser\\UpdateUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T13:07:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwAoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:53:24.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserServices.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Implementation\\Auth\\UserServices.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Implementation\\Auth\\UserServices.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Implementation\\Auth\\UserServices.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\Implementation\\Auth\\UserServices.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAJcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:19:30.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GetUserByIdorEmailQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQueryHandler.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQueryHandler.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQueryHandler.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQueryHandler.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:25:58.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\Auth\\IUserServices.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Interfaces\\Auth\\IUserServices.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\Auth\\IUserServices.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\Interfaces\\Auth\\IUserServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:15:46.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T14:55:49.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserQuery.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQuery.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQuery.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQuery.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:25:08.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQueryHandler.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQueryHandler.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQueryHandler.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Query\\GetAllUser\\UserQueryHandler.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T16:26:01.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserResisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserResisterDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\User\\UserResisterDto.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserResisterDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\User\\UserResisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:20:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\Repositories\\Implementation\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\Repositories\\Implementation\\UserRepository.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\Repositories\\Implementation\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:08:45.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepsitory.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\IUserRepsitory.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Interfaces\\IUserRepsitory.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\IUserRepsitory.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\Interfaces\\IUserRepsitory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:15:51.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "DeleteUserCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:25:05.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Program.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Program.cs",
+              "RelativeToolTip": "ECommerce.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T12:13:37.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DeleteUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommand.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommand.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Command\\DeleteUser\\DeleteUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:24:53.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GetUserByIdorEmailQuery.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQuery.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQuery.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQuery.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\User\\Query\\GetUserById\\GetUserByIdorEmailQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:24:40.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "ECommerce.API\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "ECommerce.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T15:45:16.946Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterUserCommandHandeller.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandeller.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandeller.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandeller.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommandHandeller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T13:56:46.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "RelativeToolTip": "ECommerce.Application\\Features\\Auth\\Commands\\RegisterUser\\RegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:38:29.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GetUserByIdorEmailDto.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\GetUserByIdorEmailDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\User\\GetUserByIdorEmailDto.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\GetUserByIdorEmailDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\User\\GetUserByIdorEmailDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:35:30.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DeleteUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\DeleteUserDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\User\\DeleteUserDto.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\DeleteUserDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\User\\DeleteUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T17:34:00.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ECommerce.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
+              "RelativeToolTip": "ECommerce.Domain\\ECommerce.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-24T16:39:23.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:21:56.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ECommerce.API.csproj",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeDocumentMoniker": "ECommerce.API\\ECommerce.API.csproj",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
+              "RelativeToolTip": "ECommerce.API\\ECommerce.API.csproj",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T16:37:06.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITokenService.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\Auth\\ITokenService.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Services\\Interfaces\\Auth\\ITokenService.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Services\\Interfaces\\Auth\\ITokenService.cs",
+              "RelativeToolTip": "ECommerce.Application\\Services\\Interfaces\\Auth\\ITokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T15:00:26.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ECommerce.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
+              "RelativeToolTip": "ECommerce.Application\\ECommerce.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-27T13:56:40.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "user-add.css",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\css\\user-add.css",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\css\\user-add.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T18:24:21.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "landing-user.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\landing-user.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\landing-user.html",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T17:47:13.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\css\\admin.css",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\css\\admin.css",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAAAHYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T18:03:18.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\index.html",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T17:19:45.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "admin.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\admin.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\admin.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T18:02:52.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "add-user.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\add-user.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\add-user.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T18:24:35.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "user-management.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\user-management.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\user-management.html",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T18:36:59.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "landing-user.css",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\css\\landing-user.css",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\css\\landing-user.css",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T17:48:33.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "add-user.html",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\add-user.html",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\add-user.html",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAUwCcAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-04-27T18:22:12.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "ECommerce.API\\wwwroot\\css\\style.css",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "ECommerce.API\\wwwroot\\css\\style.css",
+              "ViewState": "AgIAABwAAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-04-27T17:44:01.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ECommerce.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-24T16:33:12.964Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\DTOs\\User\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\DTOs\\User\\UserLoginDto.cs",
+              "RelativeToolTip": "ECommerce.Application\\DTOs\\User\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T16:21:00.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Result.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Common\\Result.cs",
+              "RelativeDocumentMoniker": "ECommerce.Application\\Common\\Result.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\Common\\Result.cs",
+              "RelativeToolTip": "ECommerce.Application\\Common\\Result.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T14:27:39.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\IFactory\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\IFactory\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\IFactory\\AppDbContextFactory.cs",
+              "RelativeToolTip": "ECommerce.Infrastructure\\IFactory\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T10:23:58.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ECommerce.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "RelativeToolTip": "ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-20T09:39:26.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\appsettings.json",
+              "RelativeDocumentMoniker": "ECommerce.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\appsettings.json",
+              "RelativeToolTip": "ECommerce.API\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T12:02:23.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerce.Domain\\Entities\\Order.cs",
+              "ToolTip": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\Entities\\Order.cs",
+              "RelativeToolTip": "ECommerce.Domain\\Entities\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T16:02:16.432Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

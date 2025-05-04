@@ -1,0 +1,68 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>User Dashboard - ECom</title>
+    <link rel="stylesheet" href="css/landing-user.css" />
+</head>
+<body>
+    <div class="container">
+        <header class="header">
+            <h1>Welcome to ECom Portal</h1>
+            <button class="logout-btn" onclick="logout()">Logout</button>
+        </header>
+
+        <section class="actions">
+            <h2>Quick Actions</h2>
+            <div class="action-buttons">
+                <a href="products.html" class="btn">🛍️ Browse Products</a>
+                <a href="cart.html" class="btn">🛒 View Cart</a>
+                <a href="create-order.html" class="btn">📝 Create Order</a>
+            </div>
+        </section>
+
+        <section class="user-info">
+            <h2>User Information</h2>
+            <p><strong>Name:</strong> Shiv Dubey</p>
+            <p><strong>Email:</strong> shiv@example.com</p>
+            <p><strong>Role:</strong> User</p>
+        </section>
+
+        <section class="orders">
+            <h2>Your Recent Orders</h2>
+            <table class="orders-table">
+                <thead>
+                    <tr>
+                        <th>Order ID</th>
+                        <th>Products</th>
+                        <th>Status</th>
+                        <th>Placed On</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>#1001</td>
+                        <td>3 Items</td>
+                        <td>Delivered</td>
+                        <td>2025-04-25</td>
+                    </tr>
+                    <tr>
+                        <td>#1002</td>
+                        <td>1 Item</td>
+                        <td>Shipped</td>
+                        <td>2025-04-26</td>
+                    </tr>
+                </tbody>
+            </table>
+        </section>
+    </div>
+
+    <script>
+        function logout() {
+            alert("Logging out...");
+            window.location.href = "login.html";
+        }
+    </script>
+</body>
+</html>

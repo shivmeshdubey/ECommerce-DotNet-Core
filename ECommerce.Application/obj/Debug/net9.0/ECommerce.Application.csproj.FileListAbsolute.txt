@@ -1,0 +1,30 @@
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.deps.json
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.pdb
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.dll
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.pdb
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfo.cs
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerc.670E0CBE.Up2Date
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\refint\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.pdb
+C:\Users\shivm\OneDrive\Desktop\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ref\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.deps.json
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Application.pdb
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.dll
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\bin\Debug\net9.0\ECommerce.Domain.pdb
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.AssemblyReference.cache
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfoInputs.cache
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.AssemblyInfo.cs
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.csproj.CoreCompileInputs.cache
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerc.670E0CBE.Up2Date
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\refint\ECommerce.Application.dll
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ECommerce.Application.pdb
+C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Application\obj\Debug\net9.0\ref\ECommerce.Application.dll

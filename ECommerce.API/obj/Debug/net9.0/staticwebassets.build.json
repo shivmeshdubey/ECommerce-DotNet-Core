@@ -1,0 +1,3082 @@
+{
+  "Version": 1,
+  "Hash": "iThyTvBYJTqJdqfcet4SFWuexGLZzJ9psnkoDYlNPb8=",
+  "Source": "ECommerce.API",
+  "BasePath": "_content/ECommerce.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ECommerce.API\\wwwroot",
+      "Source": "ECommerce.API",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "landing-user#[.{fingerprint=z3itcu83aj}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ranmyj5os5",
+      "Integrity": "c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "add-user#[.{fingerprint=38maz16nki}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k4t78qn8j3",
+      "Integrity": "NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/user-add#[.{fingerprint=bhob9pcqfr}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "454ry8njlm",
+      "Integrity": "uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/admin#[.{fingerprint=fsg8k76d4z}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "c37qnhkd45",
+      "Integrity": "mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "user-management#[.{fingerprint=hic3dlugpn}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "z2wgde5gli",
+      "Integrity": "lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "index#[.{fingerprint=6dq4wrutoi}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "sof1fm02w5",
+      "Integrity": "rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "admin#[.{fingerprint=tztzb18du0}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "0dvjp32vhf",
+      "Integrity": "hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/style#[.{fingerprint=76nr1om1vj}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "y9jn9vnblg",
+      "Integrity": "VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/landing-user#[.{fingerprint=ffaqlsw1k6}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "w2mxkhm6sy",
+      "Integrity": "+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "add-user#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "38maz16nki",
+      "Integrity": "/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\add-user.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "admin#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "tztzb18du0",
+      "Integrity": "mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\admin.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/admin#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fsg8k76d4z",
+      "Integrity": "AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\admin.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/landing-user#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ffaqlsw1k6",
+      "Integrity": "teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\landing-user.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "76nr1om1vj",
+      "Integrity": "D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "css/user-add#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "bhob9pcqfr",
+      "Integrity": "rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\user-add.css"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6dq4wrutoi",
+      "Integrity": "hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "landing-user#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z3itcu83aj",
+      "Integrity": "7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\landing-user.html"
+    },
+    {
+      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "SourceId": "ECommerce.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "BasePath": "_content/ECommerce.API",
+      "RelativePath": "user-management#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hic3dlugpn",
+      "Integrity": "GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\user-management.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "add-user.38maz16nki.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001392757660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38maz16nki"
+        },
+        {
+          "Name": "label",
+          "Value": "add-user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac="
+        }
+      ]
+    },
+    {
+      "Route": "add-user.38maz16nki.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38maz16nki"
+        },
+        {
+          "Name": "label",
+          "Value": "add-user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac="
+        }
+      ]
+    },
+    {
+      "Route": "add-user.38maz16nki.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "38maz16nki"
+        },
+        {
+          "Name": "label",
+          "Value": "add-user.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y="
+        }
+      ]
+    },
+    {
+      "Route": "add-user.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001392757660"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac="
+        }
+      ]
+    },
+    {
+      "Route": "add-user.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1765"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/alO4JosbbX9UTmhTdjvbU/RTfwwf5jjbXxfogES2Ac="
+        }
+      ]
+    },
+    {
+      "Route": "add-user.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "717"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:25:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001408450704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w="
+        }
+      ]
+    },
+    {
+      "Route": "admin.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM="
+        }
+      ]
+    },
+    {
+      "Route": "admin.tztzb18du0.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001408450704"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tztzb18du0"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w="
+        }
+      ]
+    },
+    {
+      "Route": "admin.tztzb18du0.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1921"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tztzb18du0"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mdE9iDZyWGweK47xtgNHeeNYTIigLheWKjlH1Z9Pt4w="
+        }
+      ]
+    },
+    {
+      "Route": "admin.tztzb18du0.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "709"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "tztzb18du0"
+        },
+        {
+          "Name": "label",
+          "Value": "admin.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.fsg8k76d4z.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001106194690"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fsg8k76d4z"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.fsg8k76d4z.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3010"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fsg8k76d4z"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AUlrjqsg0vjNQvI20cKtsZ8EKVkVy/Qg7F4Noxf76T0="
+        }
+      ]
+    },
+    {
+      "Route": "css/admin.fsg8k76d4z.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "903"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:51:32 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fsg8k76d4z"
+        },
+        {
+          "Name": "label",
+          "Value": "css/admin.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001531393568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.ffaqlsw1k6.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001531393568"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffaqlsw1k6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/landing-user.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.ffaqlsw1k6.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1824"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffaqlsw1k6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/landing-user.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-teMswc7SVY7tAWJGjVQIsh9ijMFJZAR6qOrfy7BaUbc="
+        }
+      ]
+    },
+    {
+      "Route": "css/landing-user.ffaqlsw1k6.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "652"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:17:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ffaqlsw1k6"
+        },
+        {
+          "Name": "label",
+          "Value": "css/landing-user.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.76nr1om1vj.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001901140684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76nr1om1vj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.76nr1om1vj.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76nr1om1vj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.76nr1om1vj.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "76nr1om1vj"
+        },
+        {
+          "Name": "label",
+          "Value": "css/style.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001901140684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1296"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-D0+xCyIZH/kH/Q7VFEx/9vV6bhOdvOEOsZ10JFWjrp4="
+        }
+      ]
+    },
+    {
+      "Route": "css/style.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "525"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:01:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.bhob9pcqfr.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002976190476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bhob9pcqfr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user-add.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.bhob9pcqfr.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bhob9pcqfr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user-add.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.bhob9pcqfr.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "bhob9pcqfr"
+        },
+        {
+          "Name": "label",
+          "Value": "css/user-add.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.002976190476"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.css",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "678"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rz27c1r+U04kTsfpqx1DTh7tX0ZD3bnsetNogX/8Xuc="
+        }
+      ]
+    },
+    {
+      "Route": "css/user-add.css.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "335"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8="
+        }
+      ]
+    },
+    {
+      "Route": "index.6dq4wrutoi.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001848428835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dq4wrutoi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo="
+        }
+      ]
+    },
+    {
+      "Route": "index.6dq4wrutoi.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dq4wrutoi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo="
+        }
+      ]
+    },
+    {
+      "Route": "index.6dq4wrutoi.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6dq4wrutoi"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001848428835"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1264"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hhWY4Humpuisb9XuiyYmpPZLrC2N4Kl8V5akFlmTKqo="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "540"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:45:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.z3itcu83aj.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001315789474"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3itcu83aj"
+        },
+        {
+          "Name": "label",
+          "Value": "landing-user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.z3itcu83aj.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2238"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3itcu83aj"
+        },
+        {
+          "Name": "label",
+          "Value": "landing-user.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-7wTh5KG4RYQjdQsWjAEgOFCyVVa0YT2LVqxx49oix8Q="
+        }
+      ]
+    },
+    {
+      "Route": "landing-user.z3itcu83aj.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "759"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:13:59 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z3itcu83aj"
+        },
+        {
+          "Name": "label",
+          "Value": "landing-user.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.hic3dlugpn.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000938086304"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hic3dlugpn"
+        },
+        {
+          "Name": "label",
+          "Value": "user-management.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.hic3dlugpn.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hic3dlugpn"
+        },
+        {
+          "Name": "label",
+          "Value": "user-management.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.hic3dlugpn.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hic3dlugpn"
+        },
+        {
+          "Name": "label",
+          "Value": "user-management.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000938086304"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.html",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3572"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-GeP7uFYyKkop33p9+NbaDSIqT4NUL02tGtX1TDUHIVQ="
+        }
+      ]
+    },
+    {
+      "Route": "user-management.html.gz",
+      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1065"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 27 Apr 2025 18:41:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c="
+        }
+      ]
+    }
+  ]
+}
