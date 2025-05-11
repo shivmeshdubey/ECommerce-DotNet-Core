@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Application.Features.Products.Query.QueryIRequestHandler
 {
-    internal class ProductByCategoryQueryHandler
+    internal class CategoryByCategoryQueryHandler
     {
     }
 }

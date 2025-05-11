@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ECommerce.Application.DTOs.Product
+namespace ECommerce.Application.DTOs.CategoryDto
 {
-    public class ProductDto
+    public class UpdateCategoryDto
     {
         public Guid Id { get; set; }
+        public string Code { get; set; } = string.Empty;
         public string Name { get; set; } = string.Empty;
-        public decimal Price { get; set; }
-        public int Stock { get; set; }
     }
+
 }

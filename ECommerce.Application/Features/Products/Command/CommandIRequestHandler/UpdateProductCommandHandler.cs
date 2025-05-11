@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Application.Features.Products.Command.CommandHandler
 {
-    internal class UpdateProductCommandHandler
+    internal class UpdateCategoryCommandHandler
     {
     }
 }

@@ -38,3 +38,25 @@ C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\EComme
 C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.pdb
 C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.genruntimeconfig.cache
 C:\Users\shivm\OneDrive\Desktop\My Folder\personal\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ref\ECommerce.Infrastructure.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\appsettings.json
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.deps.json
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.runtimeconfig.json
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Infrastructure.pdb
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Application.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Application.pdb
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\bin\Debug\net9.0\ECommerce.Domain.pdb
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.AssemblyInfo.cs
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.sourcelink.json
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerc.B0B31267.Up2Date
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\refint\ECommerce.Infrastructure.dll
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.pdb
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ECommerce.Infrastructure.genruntimeconfig.cache
+C:\Users\shivm\Desktop\ECommerce\ECommerceApp\ECommerce.Infrastructure\obj\Debug\net9.0\ref\ECommerce.Infrastructure.dll

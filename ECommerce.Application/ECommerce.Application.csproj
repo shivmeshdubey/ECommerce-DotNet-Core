@@ -12,7 +12,6 @@
 
   <ItemGroup>
     <Folder Include="DTOs\Order\" />
-    <Folder Include="DTOs\Product\" />
     <Folder Include="Features\Auth\Commands\LoginUser\" />
     <Folder Include="Features\Orders\" />
     <Folder Include="Common\" />

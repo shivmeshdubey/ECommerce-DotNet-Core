@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ECommerce.Application.Features.Products.Query.QueryIRequest
 {
-    internal class ProductByIdQuery
+    internal class CategoryByIdQuery
     {
     }
 }

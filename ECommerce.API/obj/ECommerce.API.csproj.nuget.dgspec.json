@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj": {}
+    "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj": {
+    "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
+        "projectUniqueName": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
         "projectName": "ECommerce.API",
-        "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
+        "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\ECommerce.API.csproj",
         "packagesPath": "C:\\Users\\shivm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\",
+        "outputPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,11 +32,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj"
+              "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj"
               },
-              "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
+              "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
+    "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
+        "projectUniqueName": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
         "projectName": "ECommerce.Application",
-        "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
+        "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj",
         "packagesPath": "C:\\Users\\shivm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\obj\\",
+        "outputPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -119,8 +119,8 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }
@@ -174,14 +174,14 @@
         }
       }
     },
-    "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+    "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
         "projectName": "ECommerce.Domain",
-        "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
+        "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj",
         "packagesPath": "C:\\Users\\shivm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\obj\\",
+        "outputPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -239,14 +239,14 @@
         }
       }
     },
-    "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
+    "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "projectName": "ECommerce.Infrastructure",
-        "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\ECommerce.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\shivm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -267,11 +267,11 @@
           "net9.0": {
             "targetAlias": "net9.0",
             "projectReferences": {
-              "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
-                "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj"
+              "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj": {
+                "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Application\\ECommerce.Application.csproj"
               },
-              "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
-                "projectPath": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj"
+              "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj": {
+                "projectPath": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.Domain\\ECommerce.Domain.csproj"
               }
             }
           }

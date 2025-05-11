@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "iThyTvBYJTqJdqfcet4SFWuexGLZzJ9psnkoDYlNPb8=",
+  "Hash": "RRI98IBbO8SlJ92wXhG8qx7uNYmuO5s2coFXKbwwr74=",
   "Source": "ECommerce.API",
   "BasePath": "_content/ECommerce.API",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ECommerce.API\\wwwroot",
       "Source": "ECommerce.API",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "landing-user#[.{fingerprint=z3itcu83aj}]?.html.gz",
       "AssetKind": "All",
@@ -28,20 +28,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "ranmyj5os5",
       "Integrity": "c/0iJblQTGx4p6PrJTnabpBmntS1VUnVjE2+7fKq3hk=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "add-user#[.{fingerprint=38maz16nki}]?.html.gz",
       "AssetKind": "All",
@@ -49,20 +49,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "k4t78qn8j3",
       "Integrity": "NK+SCcHAikdDQv9+IeYo+IXuyZYu8atkpx0KHbOE45Y=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/user-add#[.{fingerprint=bhob9pcqfr}]?.css.gz",
       "AssetKind": "All",
@@ -70,20 +70,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "454ry8njlm",
       "Integrity": "uP81kyvcLEJgSKBzHtOpTSX5FNrX21599Zi7fe8v1i8=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/admin#[.{fingerprint=fsg8k76d4z}]?.css.gz",
       "AssetKind": "All",
@@ -91,20 +91,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "c37qnhkd45",
       "Integrity": "mH58HgJaydeKIYtq4GHY11PebjfpYsaoWNUtUDxvAgo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "user-management#[.{fingerprint=hic3dlugpn}]?.html.gz",
       "AssetKind": "All",
@@ -112,20 +112,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "z2wgde5gli",
       "Integrity": "lYT1bAVPGT6yOHoXHF4BgrpxiVkw1f+4mvv4MWelH1c=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "index#[.{fingerprint=6dq4wrutoi}]?.html.gz",
       "AssetKind": "All",
@@ -133,20 +133,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "sof1fm02w5",
       "Integrity": "rAxsyxt9j0IYgOBMMBuDSZKYQMSHtMzZwnmFzUE9eS0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "admin#[.{fingerprint=tztzb18du0}]?.html.gz",
       "AssetKind": "All",
@@ -154,20 +154,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "0dvjp32vhf",
       "Integrity": "hKqDbMZ2Sjo6LQ51jgK//Ghh6wCraxtWpJ2KDQ3qWXM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/style#[.{fingerprint=76nr1om1vj}]?.css.gz",
       "AssetKind": "All",
@@ -175,20 +175,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "y9jn9vnblg",
       "Integrity": "VnZtkToYbCwX7EM4KzOLploGil92IxGC1kVRbtCgbyc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/landing-user#[.{fingerprint=ffaqlsw1k6}]?.css.gz",
       "AssetKind": "All",
@@ -196,20 +196,20 @@
       "AssetRole": "Alternative",
       "AssetMergeBehavior": "",
       "AssetMergeSource": "",
-      "RelatedAsset": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "RelatedAsset": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
       "Fingerprint": "w2mxkhm6sy",
       "Integrity": "+LkNIp1Itx3vDKtaG1gezvhpUXqikxgdeJBsfExuDdw=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css"
+      "OriginalItemSpec": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "add-user#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -227,10 +227,10 @@
       "OriginalItemSpec": "wwwroot\\add-user.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "admin#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -248,10 +248,10 @@
       "OriginalItemSpec": "wwwroot\\admin.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/admin#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -269,10 +269,10 @@
       "OriginalItemSpec": "wwwroot\\css\\admin.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/landing-user#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -290,10 +290,10 @@
       "OriginalItemSpec": "wwwroot\\css\\landing-user.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/style#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -311,10 +311,10 @@
       "OriginalItemSpec": "wwwroot\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "css/user-add#[.{fingerprint}]?.css",
       "AssetKind": "All",
@@ -332,10 +332,10 @@
       "OriginalItemSpec": "wwwroot\\css\\user-add.css"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -353,10 +353,10 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "landing-user#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\landing-user.html"
     },
     {
-      "Identity": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "Identity": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
       "SourceId": "ECommerce.API",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\",
       "BasePath": "_content/ECommerce.API",
       "RelativePath": "user-management#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -398,7 +398,7 @@
   "Endpoints": [
     {
       "Route": "add-user.38maz16nki.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -461,7 +461,7 @@
     },
     {
       "Route": "add-user.38maz16nki.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -506,7 +506,7 @@
     },
     {
       "Route": "add-user.38maz16nki.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -559,7 +559,7 @@
     },
     {
       "Route": "add-user.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -614,7 +614,7 @@
     },
     {
       "Route": "add-user.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -651,7 +651,7 @@
     },
     {
       "Route": "add-user.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\138aph30k5-38maz16nki.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -696,7 +696,7 @@
     },
     {
       "Route": "admin.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -751,7 +751,7 @@
     },
     {
       "Route": "admin.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -788,7 +788,7 @@
     },
     {
       "Route": "admin.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -833,7 +833,7 @@
     },
     {
       "Route": "admin.tztzb18du0.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -896,7 +896,7 @@
     },
     {
       "Route": "admin.tztzb18du0.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -941,7 +941,7 @@
     },
     {
       "Route": "admin.tztzb18du0.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\tduwx483is-tztzb18du0.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -994,7 +994,7 @@
     },
     {
       "Route": "css/admin.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1049,7 +1049,7 @@
     },
     {
       "Route": "css/admin.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1086,7 +1086,7 @@
     },
     {
       "Route": "css/admin.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1131,7 +1131,7 @@
     },
     {
       "Route": "css/admin.fsg8k76d4z.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1194,7 +1194,7 @@
     },
     {
       "Route": "css/admin.fsg8k76d4z.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1239,7 +1239,7 @@
     },
     {
       "Route": "css/admin.fsg8k76d4z.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\apk4v7vjsw-fsg8k76d4z.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1292,7 +1292,7 @@
     },
     {
       "Route": "css/landing-user.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1347,7 +1347,7 @@
     },
     {
       "Route": "css/landing-user.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1384,7 +1384,7 @@
     },
     {
       "Route": "css/landing-user.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1429,7 +1429,7 @@
     },
     {
       "Route": "css/landing-user.ffaqlsw1k6.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1492,7 +1492,7 @@
     },
     {
       "Route": "css/landing-user.ffaqlsw1k6.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1537,7 +1537,7 @@
     },
     {
       "Route": "css/landing-user.ffaqlsw1k6.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\zvp7njgume-ffaqlsw1k6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1590,7 +1590,7 @@
     },
     {
       "Route": "css/style.76nr1om1vj.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1653,7 +1653,7 @@
     },
     {
       "Route": "css/style.76nr1om1vj.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1698,7 +1698,7 @@
     },
     {
       "Route": "css/style.76nr1om1vj.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1751,7 +1751,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1806,7 +1806,7 @@
     },
     {
       "Route": "css/style.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1843,7 +1843,7 @@
     },
     {
       "Route": "css/style.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\vxfa85bhak-76nr1om1vj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1888,7 +1888,7 @@
     },
     {
       "Route": "css/user-add.bhob9pcqfr.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -1951,7 +1951,7 @@
     },
     {
       "Route": "css/user-add.bhob9pcqfr.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -1996,7 +1996,7 @@
     },
     {
       "Route": "css/user-add.bhob9pcqfr.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2049,7 +2049,7 @@
     },
     {
       "Route": "css/user-add.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2104,7 +2104,7 @@
     },
     {
       "Route": "css/user-add.css",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2141,7 +2141,7 @@
     },
     {
       "Route": "css/user-add.css.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\78owck8vhw-bhob9pcqfr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2186,7 +2186,7 @@
     },
     {
       "Route": "index.6dq4wrutoi.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2249,7 +2249,7 @@
     },
     {
       "Route": "index.6dq4wrutoi.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2294,7 +2294,7 @@
     },
     {
       "Route": "index.6dq4wrutoi.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2347,7 +2347,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2402,7 +2402,7 @@
     },
     {
       "Route": "index.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2439,7 +2439,7 @@
     },
     {
       "Route": "index.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\oqv8zn862r-6dq4wrutoi.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2484,7 +2484,7 @@
     },
     {
       "Route": "landing-user.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2539,7 +2539,7 @@
     },
     {
       "Route": "landing-user.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2576,7 +2576,7 @@
     },
     {
       "Route": "landing-user.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2621,7 +2621,7 @@
     },
     {
       "Route": "landing-user.z3itcu83aj.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2684,7 +2684,7 @@
     },
     {
       "Route": "landing-user.z3itcu83aj.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2729,7 +2729,7 @@
     },
     {
       "Route": "landing-user.z3itcu83aj.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\0b4aeisyp5-z3itcu83aj.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2782,7 +2782,7 @@
     },
     {
       "Route": "user-management.hic3dlugpn.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2845,7 +2845,7 @@
     },
     {
       "Route": "user-management.hic3dlugpn.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2890,7 +2890,7 @@
     },
     {
       "Route": "user-management.hic3dlugpn.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2943,7 +2943,7 @@
     },
     {
       "Route": "user-management.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -2998,7 +2998,7 @@
     },
     {
       "Route": "user-management.html",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3035,7 +3035,7 @@
     },
     {
       "Route": "user-management.html.gz",
-      "AssetFile": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
+      "AssetFile": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\obj\\Debug\\net9.0\\compressed\\cz8kg1kuj6-hic3dlugpn.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {

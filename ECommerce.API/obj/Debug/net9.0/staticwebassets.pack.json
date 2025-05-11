@@ -1,39 +1,39 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\add-user.html",
       "PackagePath": "staticwebassets\\add-user.html"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\admin.html",
       "PackagePath": "staticwebassets\\admin.html"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\admin.css",
       "PackagePath": "staticwebassets\\css\\admin.css"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\landing-user.css",
       "PackagePath": "staticwebassets\\css\\landing-user.css"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\style.css",
       "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\css\\user-add.css",
       "PackagePath": "staticwebassets\\css\\user-add.css"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\landing-user.html",
       "PackagePath": "staticwebassets\\landing-user.html"
     },
     {
-      "Id": "C:\\Users\\shivm\\OneDrive\\Desktop\\My Folder\\personal\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
+      "Id": "C:\\Users\\shivm\\Desktop\\ECommerce\\ECommerceApp\\ECommerce.API\\wwwroot\\user-management.html",
       "PackagePath": "staticwebassets\\user-management.html"
     },
     {

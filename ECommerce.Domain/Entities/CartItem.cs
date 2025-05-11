@@ -15,6 +15,7 @@ namespace ECommerce.Domain.Entities
 
         public User? User { get; set; }
         public Product? Product { get; set; }
+
     }
 
 }
