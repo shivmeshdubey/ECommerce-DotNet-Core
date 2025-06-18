@@ -1,5 +1,5 @@
 ﻿using ECommerce.Application.Common;
-using ECommerce.Application.DTOs.User;
+using ECommerce.Application.DTOs.UserDtos;
 using ECommerce.Domain.Entities;
 using System;
 using System.Collections.Generic;
@@ -18,6 +18,10 @@ namespace ECommerce.Application.Services.Interfaces.Auth
         Task<Result<string>> DeleteUserAsync(GetUserByIdorEmailDto dto);
         Task<UserDto> GetUserByEmailAsync(string email);
         Task<Result<UserDto>> GetUserByEmailorIDAsync(GetUserByIdorEmailDto dto);
+        Task<User> GetUserByIdAsync(Guid id);
         Task<Result<string>> UpdateUserAsync(UserDto user);
+        //Task<Result<string>> ChangePasswordAsync(ChangePasswordDto changePasswordDto);
+        //Task<Result<string>> ForgotPasswordAsync(ForgotPasswordDto forgotPasswordDto);
+        Task<Result<string>> ValidateUserCredentials( string email,string password);
     }
 }

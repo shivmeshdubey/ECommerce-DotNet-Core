@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\ECommerce.API",
-    "\\ECommerce.Infrastructure"
+    ""
   ],
-  "SelectedNode": "\\ECommerce.API\\Program.cs",
+  "SelectedNode": "\\ECommerce.sln",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,5 @@
 ﻿using ECommerce.Application.Common;
-using ECommerce.Application.DTOs.User;
+using ECommerce.Application.DTOs.UserDtos;
 using MediatR;
 
 namespace ECommerce.Application.Features.Auth.Commands.RegisterUser

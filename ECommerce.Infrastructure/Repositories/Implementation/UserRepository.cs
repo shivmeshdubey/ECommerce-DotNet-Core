@@ -1,5 +1,5 @@
 ﻿using ECommerce.Application.Common;
-using ECommerce.Application.DTOs.User;
+using ECommerce.Application.DTOs.UserDtos;
 using ECommerce.Application.Services.Interfaces;
 using ECommerce.Domain.Entities;
 using ECommerce.Infrastructure.Data;

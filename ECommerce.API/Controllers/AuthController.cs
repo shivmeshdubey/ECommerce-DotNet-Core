@@ -1,6 +1,8 @@
-﻿using ECommerce.Application.DTOs.User;
+﻿using ECommerce.Application.DTOs.UserDtos;
+using ECommerce.Application.Features.Auth.Commands.LoginUser;
 using ECommerce.Application.Features.Auth.Commands.RegisterUser;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 namespace ECommerce.API.Controllers
 {
@@ -14,6 +16,7 @@ namespace ECommerce.API.Controllers
             _mediatr = mediatr;
         }
 
+        [Authorize(Roles = "Admin")]
         [HttpPost("register")]
         public async Task<IActionResult> RegisterAsync(UserResisterDto user)
         {
@@ -24,6 +27,19 @@ namespace ECommerce.API.Controllers
                 return Ok(result);
             }
             return BadRequest(result.Message);
+        }
+
+        [HttpPost("login")]
+        public async Task<IActionResult> LoginAsync(UserLoginDto dto)
+        {
+            var command = new LoginUserCommand(dto);
+            var result = await _mediatr.Send(command);
+            if(result.Success)
+            {
+                return Ok( result.Data);
+            }
+            return BadRequest(result.Message);
+             
         }
     }
 }

@@ -1,11 +1,8 @@
-﻿using ECommerce.Application.DTOs.Product;
+﻿using ECommerce.Application.Common;
+using ECommerce.Application.DTOs.ProductDtos;
 using ECommerce.Application.Services.Interfaces;
 using ECommerce.Domain.Entities;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Net.Http.Headers;
 
 namespace ECommerce.Application.Services.Implementation.ProductsServices
 {
@@ -17,12 +14,12 @@ namespace ECommerce.Application.Services.Implementation.ProductsServices
             _productRepository = productRepository;
         }
 
-        public async Task<bool> AddAsync(CreateProductDto dto) // Ensure method is marked as async
+        public async Task<Result<string>> AddAsync(CreateProductDto dto) // Ensure method is marked as async
         {
             var productExists = await _productRepository.GetByCodeAsync(dto.Code); // Await the async call
             if (productExists != null)
             {
-                return false;
+                return Result<string>.Fail("already exist");
             }
             var product = new Product
             {
@@ -34,8 +31,12 @@ namespace ECommerce.Application.Services.Implementation.ProductsServices
                 Stock = dto.Stock,
                 CategoryId = dto.CategoryId
             };
-            await _productRepository.AddAsync(product); 
-            return true;
+            await _productRepository.AddAsync(product);
+            if (product != null)
+            {
+                return Result<string>.Ok(product.Id.ToString(), "Successfully Created!");
+            }
+            return  Result<string>.Fail("unable to create!");
         }
 
         public async Task<bool> DeleteAsync(Guid id) // Ensure method is marked as async
@@ -63,7 +64,8 @@ namespace ECommerce.Application.Services.Implementation.ProductsServices
                         Description = p.Description,
                         Price = p.Price,
                         Stock = p.Stock,
-                        CategoryId = p.CategoryId
+                        CategoryId = p.CategoryId,
+                        CategoryName = p.Category.Name
                     });
                 });
         }
@@ -83,7 +85,8 @@ namespace ECommerce.Application.Services.Implementation.ProductsServices
                 Description = product.Description,
                 Price = product.Price,
                 Stock = product.Stock,
-                CategoryId = product.CategoryId
+                CategoryId = product.CategoryId,
+                CategoryName = product.Name
             };
         }
 
@@ -102,7 +105,8 @@ namespace ECommerce.Application.Services.Implementation.ProductsServices
                 Description = product.Description,
                 Price = product.Price,
                 Stock = product.Stock,
-                CategoryId = product.CategoryId
+                CategoryId = product.CategoryId,
+                CategoryName = product.Name
             };
         }
 

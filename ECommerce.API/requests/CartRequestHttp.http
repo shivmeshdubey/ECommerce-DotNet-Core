@@ -1,0 +1,71 @@
+###
+GET http://localhost:5270/cart
+
+###
+GET http://localhost:5270/cart/64376995-28c4-49be-9ac8-328ace238538
+
+### Create a new Cart of Krishna ....
+POST http://localhost:5270/cart/add
+Content-Type: application/json
+{
+  "userId": "a62e9760-0830-47bb-a408-24be00415b6d",
+  "productId": "396036a5-052f-48f5-ba54-0a7b7cfb66b9",
+  "quantity": 1
+}
+
+### Create a new cart....
+
+POST http://localhost:5270/cart/add
+Content-Type: application/json
+{
+  "userId": "fed2aa77-ad2c-47cb-b5af-3d1fb38545fe",
+  "productId": "59f21a44-5e18-424a-8dfa-7d8a7d487277",
+  "quantity": 1
+}
+
+
+### Create a new cert...
+POST http://localhost:5270/cart/add
+Content-Type: application/json
+{
+  "userId": "fed2aa77-ad2c-47cb-b5af-3d1fb38545fe",
+  "productId": "50c9d6cd-f992-4ce8-b22f-3d87c66c0909",
+  "quantity": 1
+}
+### Get cart Item by Post 
+POST http://localhost:5270/cart/get-cart-item
+Content-Type: application/json
+{
+  "userId": "a62e9760-0830-47bb-a408-24be00415b6d",
+  "productId": "396036a5-052f-48f5-ba54-0a7b7cfb66b9" 
+}
+### dummy cart test ot clear and delete.....
+POST http://localhost:5270/cart/add
+Content-Type: application/json
+{
+  "userId": "64376995-28c4-49be-9ac8-328ace238538",
+  "productId": "59f21a44-5e18-424a-8dfa-7d8a7d487277" 
+}
+### dummy cart test ot clear and delete.....
+POST http://localhost:5270/cart/remove-item
+Content-Type: application/json
+
+{
+  "userId": "64376995-28c4-49be-9ac8-328ace238538",
+  "productId": "59f21a44-5e18-424a-8dfa-7d8a7d487277"
+}
+
+
+  ### delete cart(clear).. UserId
+DELETE http://localhost:5270/cart/clear/64376995-28c4-49be-9ac8-328ace238538
+
+
+### put
+PUT http://localhost:5270/cart/update-item
+Content-Type: application/json
+
+{
+   "userId": "64376995-28c4-49be-9ac8-328ace238538",
+   "productId": "59f21a44-5e18-424a-8dfa-7d8a7d487277",
+   "quantity": 1
+}

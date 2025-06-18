@@ -1,4 +1,5 @@
-﻿using ECommerce.Domain.Entities;
+﻿using ECommerce.Application.DTOs.UserDtos;
+using ECommerce.Domain.Entities;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,8 @@ namespace ECommerce.Application.Services.Interfaces.Auth
 
     public interface ITokenService
     {
-        string GenerateToken(User user);
+       Task<string> GenerateTokenAsync(UserDto user);
     }
+
+  
 }

@@ -1,0 +1,90 @@
+### Login  a new user
+POST http://localhost:5270/auth/login
+Content-Type: application/json
+
+{
+  "Email": "Gokula@gmail.com",
+  "Password": "krs"
+}
+###
+POST http://localhost:5270/auth/login
+Content-Type: application/json
+
+{
+  "Email": "Divyanshu@gmail.com",
+  "Password": "DIV"
+}
+
+### Create a new user
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Krishna",
+  "Email": "Gokula@gmail.com",
+  "Password": "krs",
+   "Role":1
+}
+### Create a new user
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+Authorization:  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImE2MmU5NzYwLTA4MzAtNDdiYi1hNDA4LTI0YmUwMDQxNWI2ZCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6Ikdva3VsYUBnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0OTkxNjkwMCwiaXNzIjoiTXlBcHAiLCJhdWQiOiJNeUFwcFVzZXIifQ.SoTljb_FkVDq7gOO9InCWsvYWFjEMHfktRypLSDcSJ4
+{
+  "UserName": "Divyanshu Rai",
+  "Email": "Divyanshu@gmail.com",
+  "Password": "DIV",
+   "Role":1
+}
+###
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Satymesh Dubey",
+  "Email": "satyam@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+
+###
+PUT http://localhost:5270/auth/update
+content-Type: application/json
+
+{
+  "UserName": "Satymesh Dubey",
+  "Email": "satyam@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+###
+POST http://localhost:5270/auth/register
+Content-Type: application/json
+
+{
+  "UserName": "Harshit Shrivastava",
+  "Email": "harshit@gmail.com",
+  "Password": "ei",
+   "Role":1
+}
+
+###
+GET http://localhost:5270/user
+
+
+### Get User By ID or Email
+GET http://localhost:5270/user/a62e9760-0830-47bb-a408-24be00415b6d
+
+Content-Type: application/json
+
+### Get User By Email Only
+GET http://localhost:5270/user/email/Gokula@gmail.com
+
+
+### Get User By ID or Email
+DELETE http://localhost:5270/user/132648d4-fef2-4c58-8984-117e03794841
+
+Content-Type: application/json
+
+### Get User By Email Only
+DELETE http://localhost:5270/user/shivmesh@gmail.com
+Authorization:  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImE2MmU5NzYwLTA4MzAtNDdiYi1hNDA4LTI0YmUwMDQxNWI2ZCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6Ikdva3VsYUBnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0ODc5Mjk3OSwiaXNzIjoiTXlBcHAiLCJhdWQiOiJNeUFwcFVzZXIifQ.ww7RmtOmb4x_ZMz9ltI9KKcPmmsjha1b3GHGuXsHTAQ

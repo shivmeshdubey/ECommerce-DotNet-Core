@@ -1,0 +1,31 @@
+### get Orders
+GET http://localhost:5270/order
+
+### get Order by id
+GET http://localhost:5270/order/ac2fd717-43c3-4fda-b1c3-b397c7bf1ce9
+
+### get Order bu user id
+GET http://localhost:5270/order/user/a62e9760-0830-47bb-a408-24be00415b6d
+### Order creation
+POST http://localhost:5270/order
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImM1ZjA4ZjE5LTE1YmEtNDVmZS04ZTE0LTYzYjUxOTZmNGM5ZiIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6IkRpdnlhbnNodUBnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0OTkxNzE4MywiaXNzIjoiTXlBcHAiLCJhdWQiOiJNeUFwcFVzZXIifQ.RMekcgG1JA5A5H-qNB-3Em1PGGfz1k_mSRhpylUursQ
+{
+  "userId": "fed2aa77-ad2c-47cb-b5af-3d1fb38545fe",
+  "items": [
+    {
+      "productId": "f28a8082-b44f-4b34-b271-14cab62dc6d9",
+      "quantity":25
+    },
+    {
+      "productId": "59f21a44-5e18-424a-8dfa-7d8a7d487277",
+      "quantity": 100
+    }
+  ],
+  "shippingAddress": "gandhinagar,gujrat"
+}
+### order delete by id
+
+
+DELETE http://localhost:5270/order/c5fa4b6d-7bd1-4abb-81ee-d31407bf2ab4
+Authorization:  Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy93cy8yMDA1LzA1L2lkZW50aXR5L2NsYWltcy9uYW1laWRlbnRpZmllciI6ImE2MmU5NzYwLTA4MzAtNDdiYi1hNDA4LTI0YmUwMDQxNWI2ZCIsImh0dHA6Ly9zY2hlbWFzLnhtbHNvYXAub3JnL3dzLzIwMDUvMDUvaWRlbnRpdHkvY2xhaW1zL2VtYWlsYWRkcmVzcyI6Ikdva3VsYUBnbWFpbC5jb20iLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBZG1pbiIsImV4cCI6MTc0ODc5Mjk3OSwiaXNzIjoiTXlBcHAiLCJhdWQiOiJNeUFwcFVzZXIifQ.ww7RmtOmb4x_ZMz9ltI9KKcPmmsjha1b3GHGuXsHTAQ

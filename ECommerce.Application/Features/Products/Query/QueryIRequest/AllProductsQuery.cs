@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ECommerce.Application.DTOs.ProductDtos;
+using MediatR;
+
 
 namespace ECommerce.Application.Features.Products.Query.QueryIRequest
 {
-    internal class AllProductsQuery
+    public class AllProductsQuery:IRequest<IEnumerable<ProductDto>>
     {
     }
 }

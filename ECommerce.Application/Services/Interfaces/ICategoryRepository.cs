@@ -9,13 +9,14 @@ namespace ECommerce.Application.Services.Interfaces
 {
     public interface ICategoryRepository
     {
-        Task<Category?> GetByIdAsync(Guid id);
+        Task<Category?> GetCategoryByIdAsync(Guid id);
         Task<Category?> GetByCodeAsync(string code);
-        Task<IEnumerable<Category>> GetAllAsync();
-        Task AddAsync(Category category);
-        Task UpdateAsync(Category category);
-        Task DeleteAsync(Guid id);
+        Task<List<Category>> GetCategoriesAsync();
+        Task<bool> AddCategoryAsync(Category category);
+        Task<bool> UpdateCategoryAsync(Category category);
+        Task<bool> DeleteCategoryAsync(Guid id);
         Task<bool> ExistsAsync(Guid id);
+      
     }
 
 }

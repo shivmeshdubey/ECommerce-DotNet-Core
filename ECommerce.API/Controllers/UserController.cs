@@ -1,11 +1,11 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MediatR;
-using ECommerce.Application.Features.User.Query.User;
-using ECommerce.Application.Features.User.Query.GetUserById;
-using ECommerce.Application.DTOs.User;
-using ECommerce.Application.Features.User.Command.DeleteUser;
-using ECommerce.Application.Features.User.Command.UpdateUser;
+using ECommerce.Application.DTOs.UserDtos;
 using Microsoft.AspNetCore.Authorization;
+using ECommerce.Application.Features.UserCommandQueries.Query.GetAllUser;
+using ECommerce.Application.Features.UserCommandQueries.Command.DeleteUser;
+using ECommerce.Application.Features.UserCommandQueries.Query.GetUserById;
+using ECommerce.Application.Features.UserCommandQueries.Command.UpdateUser;
 namespace ECommerce.API.Controllers
 {
     [ApiController]
@@ -59,6 +59,7 @@ namespace ECommerce.API.Controllers
             }
             return NotFound(result.Message);
         }
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{id:guid}")]
         public async Task<IActionResult> DeleteUserByIdAsync(Guid id)
         {
@@ -76,7 +77,7 @@ namespace ECommerce.API.Controllers
             }
             return NotFound(result.Message);
         }
-
+        [Authorize(Roles = "Admin")]
         [HttpDelete("{email}")]
         public async Task<IActionResult> DeleteUserByEmailAsync(string email)
         {
@@ -95,7 +96,7 @@ namespace ECommerce.API.Controllers
             return NotFound(result.Message);
         }
 
- 
+        [Authorize(Roles = "Admin")]
         [HttpPut("update")]
         public async Task<IActionResult> UpdateUser( UserDto dto)
         {

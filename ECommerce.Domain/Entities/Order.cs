@@ -14,6 +14,7 @@ namespace ECommerce.Domain.Entities
         public DateTime OrderDate { get; set; } = DateTime.UtcNow;
         public OrderStatus Status { get; set; }
         public decimal TotalAmount { get; set; }
+        public string? ShippingAddress { get; set; }    
 
         public User? User { get; set; }
         public ICollection<OrderItem> Items { get; set; } = new List<OrderItem>();

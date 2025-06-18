@@ -1,5 +1,5 @@
 ﻿using ECommerce.Application.Common;
-using ECommerce.Application.DTOs.User;
+using ECommerce.Application.DTOs.UserDtos;
 using ECommerce.Application.Services.Interfaces;
 using ECommerce.Application.Services.Interfaces.Auth;
 using ECommerce.Domain.Entities;
@@ -11,15 +11,32 @@ namespace ECommerce.Application.Services.Implementation.Auth
     {
         public IUserRepository UserRepository { get; set; }
         public IPasswordHasher<User> passwordHasher { get; set; }
+        
         public UserServices(IUserRepository UserRepository)
         {
             this.UserRepository = UserRepository;
             passwordHasher = new PasswordHasher<User>();
+
         }
 
         public Task<Result<string>> LoginAsync(UserLoginDto dto)
         {
             throw new NotImplementedException();
+        }
+
+        public async Task<Result<string>> ValidateUserCredentials(string email, string password)
+        {
+            var user = await UserRepository.GetUserByEmailAsync(email);
+            if (user == null)
+            {
+                return Result<string>.Fail("Invalid email or password");
+            }
+            var passwordVerificationResult = passwordHasher.VerifyHashedPassword(user, user.PasswordHash, password);
+            if (passwordVerificationResult == PasswordVerificationResult.Failed)
+            {
+                return Result<string>.Fail("Invalid email or password");
+            }
+            return Result<string>.Ok(user.Id.ToString(), "valid  User");
         }
 
         public async Task<Result<string>> ResisterAsync(UserResisterDto dto)
@@ -146,6 +163,11 @@ namespace ECommerce.Application.Services.Implementation.Auth
                 return Result<string>.Ok(data.Data.ToString(), "Updated");
             }
             return Result<string>.Fail(data.Message);
+        }
+
+        public async Task<User> GetUserByIdAsync(Guid id)
+        {
+            return await UserRepository.GetUserByIdAsync(id);
         }
     }
 }

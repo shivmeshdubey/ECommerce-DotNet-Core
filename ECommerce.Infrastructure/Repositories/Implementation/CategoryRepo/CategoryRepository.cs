@@ -34,7 +34,7 @@ namespace ECommerce.Infrastructure.Repositories.Implementation.CategoryRepo
         {
             try
             {
-                var category = await  appdbContext.Categories.FirstOrDefaultAsync(c => c.Id == id);
+                var category = await appdbContext.Categories.FirstOrDefaultAsync(c => c.Id == id);
                 if (category != null)
                 {
                     appdbContext.Categories.Remove(category);
@@ -50,19 +50,46 @@ namespace ECommerce.Infrastructure.Repositories.Implementation.CategoryRepo
             }
         }
 
-        public Task<Category> GetCategoryByIdAsync(int id)
+        public async Task<Category?> GetCategoryByIdAsync(Guid id)
         {
-            throw new NotImplementedException();
+            var category = await appdbContext.Categories.Include(c => c.Products)
+                .FirstOrDefaultAsync(c => c.Id == id);
+
+            return category;
         }
 
-        public Task<List<Category>> GetCategoriesAsync()
+        public async Task<List<Category>> GetCategoriesAsync()
         {
-            throw new NotImplementedException();
+            return await appdbContext.Categories
+                .Include(c => c.Products).ToListAsync();
         }
 
-        public Task<bool> UpdateCategoryAsync(Category category)
+        public async Task<bool> UpdateCategoryAsync(Category category)
         {
-            throw new NotImplementedException();
+            try
+            {
+                appdbContext.Categories.Update(category);
+                await appdbContext.SaveChangesAsync();
+                return true;
+            }
+            catch (Exception ex)
+            {
+                return false;
+            }
         }
+
+        public async Task<bool> ExistsAsync(Guid id)
+        {
+            return await appdbContext.Categories.AnyAsync(c => c.Id == id);
+        }
+
+        public async Task<Category?> GetByCodeAsync(string code)
+        {
+            var category = await appdbContext.Categories.Include(c => c.Products)
+                 .FirstOrDefaultAsync(c => c.Code == code);
+
+            return category;
+        }
+    }
        
 }

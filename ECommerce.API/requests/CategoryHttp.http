@@ -1,0 +1,82 @@
+###
+GET http://localhost:5270/category
+
+###
+GET http://localhost:5270/category/48b6fb2d-ef58-438e-bbd6-879f62adfece
+###
+GET http://localhost:5270/category/code/Del
+
+### update
+PUT http://localhost:5270/category/update
+Content-Type: application/json
+{
+  "id": "9702af9d-6d8e-4df3-a173-89f1dbcc1c5d",
+  "name": "Updated Category Name",
+  "code": "UPDATED_CODE"
+}
+
+
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Electronics",
+  "code": "ELEC"
+}
+### Create a new Category to test delete 
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Delete",
+  "code": "Del"
+}
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Clothing",
+  "code": "CLOTH"
+}
+
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Books",
+  "code": "BOOKS"
+}
+
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Vegitable",
+  "code": "Vegis"
+}
+
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "HealthCare",
+  "code": "Vegis"
+}
+
+### Create a new Category
+POST http://localhost:5270/category
+Content-Type: application/json
+
+{
+  "name": "Bhkta/Dash of krishna......",
+  "code": "BHKT"
+}
+
+### Delete by Id
+DELETE http://localhost:5270/category/{9702af9d-6d8e-4df3-a173-89f1dbcc1c5d}
+

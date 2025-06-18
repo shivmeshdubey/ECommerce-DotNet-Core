@@ -1,0 +1,140 @@
+###
+GET http://localhost:5270/product
+### get by id
+GET http://localhost:5270/product/59f21a44-5e18-424a-8dfa-7d8a7d487277
+
+### get by Code
+GET http://localhost:5270/product/code/PRD003
+
+### Create a new Products BHKT
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "SBHKT",
+  "name": "Krishna-Dash Shivmesh",
+  "description": "Goverdhan Washi Sanvare..........",
+  "price": -9999999,
+  "stock": 1,
+  "categoryId": "19fe59c7-7b0f-4db3-966b-71aa8a64fc6e"
+}
+
+### Create a new Products Electronics
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD002",
+  "name": "Dell XPS 15",
+  "description": "High-performance laptop for professionals",
+  "price": 124999.99,
+  "stock": 25,
+  "categoryId": "48b6fb2d-ef58-438e-bbd6-879f62adfece"
+}
+
+
+### Create a new Products Cloths
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD003",
+  "name": "Men's Cotton Shirt",
+  "description": "Comfortable and stylish cotton shirt",
+  "price": 999.99,
+  "stock": 200,
+  "categoryId": "44ad56d1-3506-45b6-9373-8303781c87be"
+}
+###
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD004",
+  "name": "Women's Cotton Shirt & Jeans",
+  "description": "Comfortable and stylish cotton shirt& Jeans",
+  "price": 999.99,
+  "stock": 200,
+  "categoryId": "44ad56d1-3506-45b6-9373-8303781c87be"
+}
+
+### Create a new Products Books
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD005",
+  "name": "Clean Code",
+  "description": "A Handbook of Agile Software Craftsmanship by Robert C. Martin",
+  "price": 499.99,
+  "stock": 100,
+  "categoryId": "d61ddd2a-2b42-4940-a5a4-89d96900b169"
+}
+
+###
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD006",
+  "name": "MathMatics",
+  "description": "A Handbook of Agile Software Craftsmanship by Robert C. Martin",
+  "price": 499.99,
+  "stock": 100,
+  "categoryId": "d61ddd2a-2b42-4940-a5a4-89d96900b169"
+}
+
+### Create a new Products Vegitables
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD007",
+  "name": "Tomato",
+  "description": " good for health , we can user any  where even if we can eat it kaccha",
+  "price": 5,
+  "stock": 100,
+  "categoryId": "abc6ad6c-45b4-4fc8-8fe2-cf99b6db5907"
+}
+
+###
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD008",
+  "name": "Potaito",
+  "description": "aaloo achhe hai",
+  "price": 10,
+  "stock": 100,
+  "categoryId": "abc6ad6c-45b4-4fc8-8fe2-cf99b6db5907"
+}
+
+### for deklete and update test
+POST http://localhost:5270/product
+Content-Type: application/json
+
+{
+  "code": "PRD009",
+  "name": "Delete",
+  "description": "delete krna hai bhai tujhe!",
+  "price": 10,
+  "stock": 100,
+  "categoryId": "abc6ad6c-45b4-4fc8-8fe2-cf99b6db5907"
+}
+### put
+PUT http://localhost:5270/product/update
+Content-Type: application/json
+
+{
+  "Id":"8f3a694d-b638-45b6-abfa-c6095c39f487",
+  "code": "PRD009",
+  "name": "Deletefuck",
+  "description": "fuck krna hai bhai tujhe!",
+  "price": 10,
+  "stock": 100,
+  "categoryId": "abc6ad6c-45b4-4fc8-8fe2-cf99b6db5907"
+}
+
+  ### delete
+  DELETE http://localhost:5270/product/{8f3a694d-b638-45b6-abfa-c6095c39f487}

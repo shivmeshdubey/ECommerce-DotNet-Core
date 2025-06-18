@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using ECommerce.Application.Common;
+using ECommerce.Application.DTOs.ProductDtos;
+using MediatR;
 
 namespace ECommerce.Application.Features.Products.Command.CommandDef
 {
-    internal class UpdateCategoryCommand
+    public  class UpdateProductCommand:IRequest<Result<string>>
     {
+        public UpdateProductDto updateProductDto { get; set; }
+        public UpdateProductCommand(UpdateProductDto updateProductDto)
+        {
+            this.updateProductDto = updateProductDto;
+        }
     }
 }
